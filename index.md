@@ -10,7 +10,7 @@ layout: centered
 
 All downloads are hosted by Apple. Links on this site take you directly to Apple's download pages.
 
-This is not an official Apple website. [Please consider donating](https://paypal.me/XcodeReleases) to help maintain it.
+This is not an official Apple website. [Please consider supporting this project on OpenCollective](https://opencollective.com/xcodereleases).
 
 Stay up-to-date via our [JSON API]({{ site.url }}/data.json), [RSS feed]({{ site.url }}/api/all.rss), and [Mastodon account](https://techhub.social/@xcodereleases).
 
