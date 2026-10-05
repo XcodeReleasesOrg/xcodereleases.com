@@ -1,5 +1,105 @@
 [
   {
+    "_dateOrder" : 20261005,
+    "_swiftOrder" : 6004000,
+    "_versionOrder" : 27001000901,
+    "checksums" : {
+      "sha1" : "d8b1d16397e6f2faab34bd48b19692a3f7797b9d"
+    },
+    "compilers" : {
+      "clang" : [
+        {
+          "build" : "2100.3.34.2",
+          "number" : "21.0.0",
+          "release" : {
+            "release" : true
+          }
+        }
+      ],
+      "swift" : [
+        {
+          "build" : "6.4.0.34.1",
+          "number" : "6.4",
+          "release" : {
+            "release" : true
+          }
+        }
+      ]
+    },
+    "date" : {
+      "day" : 5,
+      "month" : 10,
+      "year" : 2026
+    },
+    "links" : {
+      "download" : {
+        "architectures" : [
+          "arm64"
+        ],
+        "url" : "https://download.developer.apple.com/Developer_Tools/Xcode_27.1_Release_Candidate/Xcode_27.1_Release_Candidate.xip"
+      },
+      "notes" : {
+        "url" : "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes"
+      }
+    },
+    "name" : "Xcode",
+    "requires" : "26.6",
+    "sdks" : {
+      "iOS" : [
+        {
+          "build" : "24A94232",
+          "number" : "27.0",
+          "release" : {
+            "release" : true
+          }
+        }
+      ],
+      "macOS" : [
+        {
+          "build" : "26A425",
+          "number" : "27.0",
+          "release" : {
+            "release" : true
+          }
+        }
+      ],
+      "tvOS" : [
+        {
+          "build" : "24J360",
+          "number" : "27.0",
+          "release" : {
+            "release" : true
+          }
+        }
+      ],
+      "visionOS" : [
+        {
+          "build" : "24M361",
+          "number" : "27.0",
+          "release" : {
+            "release" : true
+          }
+        }
+      ],
+      "watchOS" : [
+        {
+          "build" : "24R360",
+          "number" : "27.0",
+          "release" : {
+            "release" : true
+          }
+        }
+      ]
+    },
+    "version" : {
+      "build" : "27A9275",
+      "number" : "27.1",
+      "release" : {
+        "rc" : 1
+      }
+    }
+  },
+  {
     "_dateOrder" : 20260928,
     "_swiftOrder" : 6004000,
     "_versionOrder" : 27002000002,
