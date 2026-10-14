@@ -1,5 +1,105 @@
 [
   {
+    "_dateOrder" : 20261014,
+    "_swiftOrder" : 6004002,
+    "_versionOrder" : 27002000003,
+    "checksums" : {
+      "sha1" : "6f2faae190bad5a9b5d706658a380b8beaa6a383"
+    },
+    "compilers" : {
+      "clang" : [
+        {
+          "build" : "2100.4.1.1",
+          "number" : "21.0.0",
+          "release" : {
+            "release" : true
+          }
+        }
+      ],
+      "swift" : [
+        {
+          "build" : "6.4.2.1.4",
+          "number" : "6.4.2",
+          "release" : {
+            "release" : true
+          }
+        }
+      ]
+    },
+    "date" : {
+      "day" : 14,
+      "month" : 10,
+      "year" : 2026
+    },
+    "links" : {
+      "download" : {
+        "architectures" : [
+          "arm64"
+        ],
+        "url" : "https://download.developer.apple.com/Developer_Tools/Xcode_27.2_beta_3/Xcode_27.2_beta_3.xip"
+      },
+      "notes" : {
+        "url" : "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes"
+      }
+    },
+    "name" : "Xcode",
+    "requires" : "26.6",
+    "sdks" : {
+      "iOS" : [
+        {
+          "build" : "24B5109a",
+          "number" : "27.2",
+          "release" : {
+            "release" : true
+          }
+        }
+      ],
+      "macOS" : [
+        {
+          "build" : "26B5110a",
+          "number" : "27.2",
+          "release" : {
+            "release" : true
+          }
+        }
+      ],
+      "tvOS" : [
+        {
+          "build" : "24K5093g",
+          "number" : "27.2",
+          "release" : {
+            "release" : true
+          }
+        }
+      ],
+      "visionOS" : [
+        {
+          "build" : "24N5112a",
+          "number" : "27.2",
+          "release" : {
+            "release" : true
+          }
+        }
+      ],
+      "watchOS" : [
+        {
+          "build" : "24S5110a",
+          "number" : "27.2",
+          "release" : {
+            "release" : true
+          }
+        }
+      ]
+    },
+    "version" : {
+      "build" : "27B5038j",
+      "number" : "27.2",
+      "release" : {
+        "beta" : 3
+      }
+    }
+  },
+  {
     "_dateOrder" : 20261005,
     "_swiftOrder" : 6004000,
     "_versionOrder" : 27001000901,
