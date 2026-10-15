@@ -48,7 +48,7 @@
       "iOS" : [
         {
           "build" : "24A94232",
-          "number" : "27.0",
+          "number" : "27.1",
           "release" : {
             "release" : true
           }
@@ -248,7 +248,7 @@
       "iOS" : [
         {
           "build" : "24A94232",
-          "number" : "27.0",
+          "number" : "27.1",
           "release" : {
             "release" : true
           }
